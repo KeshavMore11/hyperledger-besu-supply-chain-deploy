@@ -1,0 +1,10 @@
+node_modules/
+**/key
+**/key.pub
+networkFiles/keys/
+nodes/*/data/
+supply-chain/artifacts/
+supply-chain/cache/
+supply-chain/types/
+*.log
+.env
